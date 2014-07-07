@@ -1,0 +1,11 @@
+{
+    "name": "ChatApp",
+    "version": "1.4.14",
+    "description": "My Chat app",
+    "dependencies": {
+        "socket.io": "latest",
+        "express": "latest",
+        "jade": "latest"
+    },
+    "author": "developer"
+}
